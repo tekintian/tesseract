@@ -56,6 +56,15 @@ There is no development for this version, but it can be used for special cases (
 See **[Release Notes](https://tesseract-ocr.github.io/tessdoc/ReleaseNotes.html)**
 and **[Change Log](https://github.com/tesseract-ocr/tesseract/blob/master/ChangeLog)** for more details of the releases.
 
+## install Tesseract on docker
+
+docker push tekintian/alpine-php-tesseract-ocr:7.2.29-ocr
+
+for more info:
+https://hub.docker.com/repository/docker/tekintian/alpine-php-tesseract-ocr
+
+
+
 ## Installing Tesseract
 
 You can either [Install Tesseract via pre-built binary package](https://tesseract-ocr.github.io/tessdoc/Home.html)
